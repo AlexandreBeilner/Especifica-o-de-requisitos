@@ -80,18 +80,12 @@ Serão definidos atributos de qualidade de acordo com as recomendações da norm
 
 ## Objetos/Classes:
 ### Modelo Conceitual:
-Serão definidas classes e associações que representam os principais objetos conceituais da plataforma, sem se preocupar com a implementação.
 
 ### DSS – Diagramas de Sequência do Sistema:
-Serão desenvolvidos diagramas de sequência do sistema para descrever os eventos e operações relacionados aos casos de uso, incluindo as mensagens trocadas entre os objetos do domínio.
 
 ### Contratos (das Operações do DSS):
-Contratos serão definidos para as operações dos diagramas de sequência do sistema.
 
 ### Classes de Implementação:
-Diagramas de classes de implementação serão criados, incluindo
-
- classes, associações, multiplicidades, atributos e métodos. As responsabilidades serão atribuídas de acordo com os princípios do GRASP (General Responsibility Assignment Software Patterns).
 
 # Análise de UCP:
 Serão calculadas as tabelas de escopo de valor do produto e o tempo de desenvolvimento usando a métrica de Use Case Points (UCP) para avaliar o esforço necessário no desenvolvimento da plataforma.
