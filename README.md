@@ -13,7 +13,7 @@ Connect and Share
 O objetivo deste projeto é criar uma plataforma online que permita aos usuários compartilhar projetos e ideias relacionados a práticas sustentáveis na área da infraestrutura. A plataforma visa fornecer um espaço para a colaboração e disseminação de informações sobre construção com materiais sustentáveis, energias renováveis e outras soluções eco-amigáveis. Além disso, a plataforma permitirá a interação entre os usuários, incluindo discussões, compartilhamento de experiências e o desenvolvimento de projetos colaborativos. Esta plataforma é destinada a profissionais e entusiastas da área interessados em promover práticas mais sustentáveis na construção e infraestrutura.
 
 ## Plataforma de Desenvolvimento:
-A plataforma será desenvolvida utilizando tecnologias web modernas, incluindo HTML, CSS, JavaScript, e frameworks de desenvolvimento web. O banco de dados será implementado usando um sistema de gerenciamento de banco de dados relacional. Além disso, a plataforma será hospedada em servidores web compatíveis com as tecnologias selecionadas.
+A plataforma será desenvolvida utilizando tecnologias web, incluindo HTML, CSS, JavaScript, e frameworks de desenvolvimento web. O banco de dados será implementado usando um sistema de gerenciamento de banco de dados relacional. Além disso, a plataforma será hospedada em servidores web compatíveis com as tecnologias selecionadas.
 
 ## Plataforma de Operação:
 Os usuários da plataforma poderão acessá-la por meio de navegadores da web em seus dispositivos, como computadores, tablets e smartphones. Não é necessária a instalação de nenhum software adicional no dispositivo do usuário para operar a plataforma.
@@ -29,7 +29,6 @@ A plataforma terá os seguintes modos de operação:
 - Back-end: Gerenciamento e manutenção do sistema.
 - Front-end: Interação dos usuários com a interface da plataforma.
 - Móvel: Acesso à plataforma por meio de dispositivos móveis.
-- Stand-alone: Possibilidade de uso offline para algumas funcionalidades.
 
 ## Requisitos de Adaptação ao Ambiente:
 A plataforma deve estar em conformidade com as regulamentações e leis ambientais relevantes. Além disso, ela deve ser capaz de se adaptar a ambientes de operação críticos, como a indústria, e suportar protocolos de comunicação específicos quando necessário.
