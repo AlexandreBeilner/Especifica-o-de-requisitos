@@ -76,7 +76,7 @@ A estrutura de dados persistente, incluindo o modelo de banco de dados, será de
 Restrições de projeto impostas por padrões externos e legislação serão observadas e incorporadas ao desenvolvimento da plataforma.
 
 ### Atributos de Qualidade:
-Serão definidos atributos de qualidade de acordo com as recomendações da norma [ISO-9126](https://drive.google.com/open?id=14-OfxrvT5pD4sblFt234r8NPBNwt2HmG) ou versões mais atualizadas, que incluem características como usabilidade, eficiência, confiabilidade, manutenibilidade, portabilidade e segurança.
+Usabilidade, eficiência, confiabilidade, manutenibilidade, portabilidade e segurança.
 
 ## Objetos/Classes:
 ### Modelo Conceitual:
@@ -88,10 +88,8 @@ Serão definidos atributos de qualidade de acordo com as recomendações da norm
 ### Classes de Implementação:
 
 # Análise de UCP:
-Serão calculadas as tabelas de escopo de valor do produto e o tempo de desenvolvimento usando a métrica de Use Case Points (UCP) para avaliar o esforço necessário no desenvolvimento da plataforma.
 
 # Referências:
 - IEEE Std. 830 – 1993. IEEE Recommended Practice for Software Requirements Specifications.
-- IEEE ISO/IEC/IEEE 29148 – 2011. IEEE Systems and software engineering — Life cycle processes — Requirements engineering.
 
 Este modelo de especificação de requisitos será complementado e detalhado ao longo do desenvolvimento do projeto, de acordo com as necessidades e evolução do mesmo.
