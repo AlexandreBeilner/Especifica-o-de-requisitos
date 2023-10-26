@@ -14,10 +14,12 @@ O usuário vai acessar o fórum e optar entre fazer login ou se cadastrar, se el
 Se optar por se cadastrar, o usuário terá que preencher campos como o nome completo, idade, email e senha. Assim que concluir o cadastro terá acesso ao seu perfil, que poderá adicionar mais informações pessoais, como cursos superiores, especializações e interesses. Também terá uma página chamada início onde será possível ver postagens relacionadas a práticas sustentáveis na inovação e infraestrutura, como materiais sustentáveis, energias renováveis e outras soluções eco-amigáveis, tendo como interagir através de comentários, reações e compartilhamentos, dessa forma podendo gerar discussões sobre os assuntos abordados, compartilhamento de experiências e motivar projetos colaborativos. Além disso, você poderá fazer suas próprias publicações, que posteriormente aparecerão no seu perfil e para outros usuários.
 
 ## Atores
+Aqui estão exemplificados os Atores do nosso projeto
 - Administrador
 - Usuário
 
 ## Principais Abas do Site
+Aqui nos Falamos das Principais Abas do site do nosso projeto
 - Forum
 - Aba de log-in/sign-in
 - Perfil do usuário
@@ -99,6 +101,9 @@ Usabilidade, eficiência, confiabilidade, manutenibilidade, portabilidade e segu
 ### Classes de Implementação:
 
 # Análise de UCP:
+
+# Design Thinking
+![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/127603510/71e13521-1977-4032-ad8c-7f6a87d30cc5)
 
 # Referências:
 - IEEE Std. 830 – 1993. IEEE Recommended Practice for Software Requirements Specifications.
