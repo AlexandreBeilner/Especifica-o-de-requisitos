@@ -1,4 +1,4 @@
-# Especifica-o-de-requisitos
+![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/127603510/70b595b0-4c56-4664-b332-f66010a7cbff)# Especifica-o-de-requisitos
 # Título do Projeto de Software: 
 Connect and Share
 
@@ -32,6 +32,10 @@ O Design Thinking demonstra a ideia Geral do nosso Projeto
 # Matriz CSD
 A Matriz CSD Demonstra as Nossas Certezas, Incertezas e Duvidas Referentes ao Nosso Projeto
 ![Matriz CSD](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/127603510/1a95ff6c-ceeb-4f75-bb5d-6d49c08f7d24)
+#BPMN
+O BPMN serve para nos conseguirmos rastrear por onde um usuário comum vai usar o nosso site
+![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/127603510/93e5a5f7-be34-4892-997b-f22799163e4a)
+
 
 ## Plataforma de Desenvolvimento:
 A plataforma será desenvolvida utilizando tecnologias web, incluindo HTML, CSS, JavaScript, e frameworks de desenvolvimento web. O banco de dados será implementado usando um sistema de gerenciamento de banco de dados relacional. Além disso, a plataforma será hospedada em servidores web compatíveis com as tecnologias selecionadas.
