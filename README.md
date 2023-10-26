@@ -26,6 +26,13 @@ Aqui nos Falamos das Principais Abas do site do nosso projeto
 - Painel do administrador
 - Página do projeto
 
+# Design Thinking
+O Design Thinking demonstra a ideia Geral do nosso Projeto
+![Design Thinking](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/127603510/03c1e62c-0e8c-4934-886b-e4a4da378cd1)
+# Matriz CSD
+A Matriz CSD Demonstra as Nossas Certezas, Incertezas e Duvidas Referentes ao Nosso Projeto
+![Matriz CSD](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/127603510/1a95ff6c-ceeb-4f75-bb5d-6d49c08f7d24)
+
 ## Plataforma de Desenvolvimento:
 A plataforma será desenvolvida utilizando tecnologias web, incluindo HTML, CSS, JavaScript, e frameworks de desenvolvimento web. O banco de dados será implementado usando um sistema de gerenciamento de banco de dados relacional. Além disso, a plataforma será hospedada em servidores web compatíveis com as tecnologias selecionadas.
 
@@ -101,9 +108,6 @@ Usabilidade, eficiência, confiabilidade, manutenibilidade, portabilidade e segu
 ### Classes de Implementação:
 
 # Análise de UCP:
-
-# Design Thinking
-![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/127603510/71e13521-1977-4032-ad8c-7f6a87d30cc5)
 
 # Referências:
 - IEEE Std. 830 – 1993. IEEE Recommended Practice for Software Requirements Specifications.
