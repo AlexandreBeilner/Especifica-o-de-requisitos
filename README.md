@@ -13,6 +13,16 @@ Connect and Share
 O usuário vai acessar o fórum e optar entre fazer login ou se cadastrar, se ele escolher fazer login, vai poder optar entre administrador ou usuário comum. Com tudo, se optar por ter acesso a uma conta como administrador, ele poderá fazer o gerenciamento de usuários e conteúdo. No gerenciamento de conteúdo ele conseguirá fazer o controle das publicações que estiver fora do escopo do fórum, publicações de má índole entre outras. Já no gerenciamento de usuário ele conseguirá fazer o bloqueio de usuários e tornar usuários comuns como administradores, além de ter todas as funcionalidades do usuário comum.
 Se optar por se cadastrar, o usuário terá que preencher campos como o nome completo, idade, email e senha. Assim que concluir o cadastro terá acesso ao seu perfil, que poderá adicionar mais informações pessoais, como cursos superiores, especializações e interesses. Também terá uma página chamada início onde será possível ver postagens relacionadas a práticas sustentáveis na inovação e infraestrutura, como materiais sustentáveis, energias renováveis e outras soluções eco-amigáveis, tendo como interagir através de comentários, reações e compartilhamentos, dessa forma podendo gerar discussões sobre os assuntos abordados, compartilhamento de experiências e motivar projetos colaborativos. Além disso, você poderá fazer suas próprias publicações, que posteriormente aparecerão no seu perfil e para outros usuários.
 
+## Atores
+- Administrador
+- Usuário
+
+## Principais Abas do Site
+- Forum
+- Aba de log-in/sign-in
+- Perfil do usuário
+- Painel do administrador
+- Página do projeto
 
 ## Plataforma de Desenvolvimento:
 A plataforma será desenvolvida utilizando tecnologias web, incluindo HTML, CSS, JavaScript, e frameworks de desenvolvimento web. O banco de dados será implementado usando um sistema de gerenciamento de banco de dados relacional. Além disso, a plataforma será hospedada em servidores web compatíveis com as tecnologias selecionadas.
