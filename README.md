@@ -1,4 +1,3 @@
-# Especifica-o-de-requisitos
 # Título do Projeto de Software: 
 Connect and Share
 
@@ -29,10 +28,12 @@ Aqui nos Falamos das Principais Abas do site do nosso projeto
 # Design Thinking
 O Design Thinking demonstra a ideia Geral do nosso Projeto
 ![Design Thinking](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/127603510/03c1e62c-0e8c-4934-886b-e4a4da378cd1)
+
 # Matriz CSD
 A Matriz CSD Demonstra as Nossas Certezas, Incertezas e Duvidas Referentes ao Nosso Projeto
 ![Matriz CSD](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/127603510/1a95ff6c-ceeb-4f75-bb5d-6d49c08f7d24)
-#BPMN
+
+# BPMN
 O BPMN serve para nos conseguirmos rastrear por onde um usuário comum vai usar o nosso site
 ![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/127603510/93e5a5f7-be34-4892-997b-f22799163e4a)
 
