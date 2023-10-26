@@ -1,4 +1,4 @@
-![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/127603510/70b595b0-4c56-4664-b332-f66010a7cbff)# Especifica-o-de-requisitos
+# Especifica-o-de-requisitos
 # Título do Projeto de Software: 
 Connect and Share
 
