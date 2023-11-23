@@ -86,6 +86,8 @@ Para as interfaces gráficas, serão incluídos mockups e wireframes que represe
 ## Requisitos Funcionais:
 ### Diagramas de Casos de Uso:
 Serão desenvolvidos diagramas de casos de uso modelados no formato UML, identificando todas as funcionalidades a serem implementadas na plataforma.
+![Fórum Connect and Share](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/127603510/756392f9-fc64-4eff-93ac-81952e7e7a6d)
+
 
 ### Fluxos dos Casos de Uso:
 Os casos de uso serão detalhados, incluindo pré-condições, fluxo principal, fluxos alternativos, descrições formais, diagramas de estado ou atividade, quando necessário, e observações.
@@ -105,6 +107,8 @@ Usabilidade, eficiência, confiabilidade, manutenibilidade, portabilidade e segu
 
 ## Objetos/Classes:
 ### Modelo Conceitual:
+![Classe UML](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/127603510/54b84a72-c90c-463d-8014-3d2191f60e8f)
+
 
 ### DSS – Diagramas de Sequência do Sistema:
 
