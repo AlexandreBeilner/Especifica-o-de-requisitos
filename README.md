@@ -107,6 +107,7 @@ Usabilidade, eficiência, confiabilidade, manutenibilidade, portabilidade e segu
 
 ## Objetos/Classes:
 ### Modelo Conceitual:
+É uma representação visual simplificada e abstrata de um sistema ou domínio. Ele descreve os conceitos principais, as relações entre eles e as propriedades essenciais, fornecendo uma visão geral compreensível do sistema antes de se aprofundar nos detalhes de implementação.
 ![Classe UML](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/127603510/54b84a72-c90c-463d-8014-3d2191f60e8f)
 
 
