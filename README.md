@@ -109,14 +109,22 @@ Usabilidade, eficiência, confiabilidade, manutenibilidade, portabilidade e segu
 É uma representação visual simplificada e abstrata de um sistema ou domínio. Ele descreve os conceitos principais, as relações entre eles e as propriedades essenciais, fornecendo uma visão geral compreensível do sistema antes de se aprofundar nos detalhes de implementação.
 ![Classe UML](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/127603510/54b84a72-c90c-463d-8014-3d2191f60e8f)
 
+### Wireframes ou mockups:
+Link do projeto no canva: https://www.canva.com/design/DAF1rqMJTWs/N_11LXsBcVRB9KvYf-XMdw/edit?utm_content=DAF1rqMJTWs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-### DSS – Diagramas de Sequência do Sistema:
 
-### Contratos (das Operações do DSS):
+![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/373aef7f-a461-40aa-9fba-0a316c99a4dd)
+![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/ea507280-7f5d-4831-b7f8-8cdc59ee24b0)
+![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/0579b2ca-7a8e-4f61-a776-99c365938f04)
+![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/d479e452-8ec2-4371-8e26-4ed966c2e2c4)
+![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/9beb77a4-a50f-4891-a697-df85c3f8e513)
+![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/f46a4237-d42f-4a4b-9f2a-54ed1486ab32)
+![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/b467e323-6280-404f-995f-77acb2541000)
+![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/05a4f04f-72e9-4d73-b1a7-a7804fb8a98a)
+![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/8ebbcdde-81ec-4fa4-93ff-1bfb3a488558)
+![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/a2459fae-bcfb-47e1-bbe9-25a34e317d07)
 
-### Classes de Implementação:
 
-# Análise de UCP:
 
 # Referências:
 - IEEE Std. 830 – 1993. IEEE Recommended Practice for Software Requirements Specifications.
