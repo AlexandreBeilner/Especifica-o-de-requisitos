@@ -115,7 +115,7 @@ Link do projeto no canva: https://www.canva.com/design/DAF1rqMJTWs/N_11LXsBcVRB9
 
 ![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/373aef7f-a461-40aa-9fba-0a316c99a4dd)
 ![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/ea507280-7f5d-4831-b7f8-8cdc59ee24b0)
-![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/0579b2ca-7a8e-4f61-a776-99c365938f04)
+![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/5f11bad0-c617-4921-a82d-134bda5879fe)
 ![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/d479e452-8ec2-4371-8e26-4ed966c2e2c4)
 ![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/9beb77a4-a50f-4891-a697-df85c3f8e513)
 ![image](https://github.com/AlexandreBeilner/Especifica-o-de-requisitos/assets/134701937/f46a4237-d42f-4a4b-9f2a-54ed1486ab32)
